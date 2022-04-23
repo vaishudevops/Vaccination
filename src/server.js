@@ -1,5 +1,5 @@
 const express = require("express");
-require("./db");
+require("./db/app");
 
 const ejs = require("ejs");
 const expEjsLayouts = require("express-ejs-layouts")

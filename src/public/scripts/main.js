@@ -1,7 +1,6 @@
 
 
 window.onload = function(){
-    console.log("inside main.js");
     const patient = document.getElementById("patient");
     const dob    = document.getElementById("dob");
     const gender = document.getElementById("#gender");
